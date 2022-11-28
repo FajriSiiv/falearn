@@ -15,4 +15,9 @@ body {
   .gede:hover {
     scale: 1.05;
   }
+  @media (max-width: 768px) {
+    .clip-jumbotron {
+      clip-path: none;
+    }
+  }
 }
