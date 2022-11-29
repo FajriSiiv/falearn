@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # Image Website
 
 Tampilan website~
-![My Image](images/falearn.png)
+![The Website](falearn.png)
 
 First, run the development server:
 
